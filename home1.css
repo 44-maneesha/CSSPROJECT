@@ -1,0 +1,105 @@
+    body {
+        box-sizing: border-box;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .section1 {
+        display: flex;
+        background-color: blue;
+        flex-direction: row;
+        justify-content: center;
+        color: white;
+
+    }
+
+    .input {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .checked {
+        color: white;
+        background-color: green;
+        padding: 2px
+    }
+
+    .image1 {
+        display: flex;
+        /* justify-content: space-between; */
+        flex-direction: row;
+    }
+
+
+    .main {
+        display: flex;
+        justify-content: space-between;
+        /* padding-bottom: 20px; */
+        margin-top: 20px;
+        padding: 20px;
+    }
+
+
+    .part2 {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .main2 {
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+    .footer {
+        background-color: #373751;
+        color: white;
+        width: 100%;
+        height: auto;
+    }
+
+    .About {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .About1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .Mail {
+        padding: 20px 20px;
+    }
+
+    .Malius {
+        border-left: 2px solid grey;
+    }
+
+    .text {
+        color: gray;
+    }
+
+    .inAbout {
+        display: flex;
+        justify-content: space-evenly;
+        padding: 0px 0px 0px 50px
+    }
+
+    .span {
+        color: green;
+        margin-left: 10px;
+    }
+
+    .vl {
+        border-left: 1px solid gray;
+        margin: 50px 0px;
+        /* height: 50px; */
+
+
+        /* margin-top: 10px; */
+    }
